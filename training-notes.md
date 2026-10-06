@@ -9,3 +9,11 @@ git status : see changed, staged and untracked files <br>
 git add . : stage all changes in the current directory<br>
 git commit -m "message" : create a commit with meaningful message<br>
 git push origin main : upload the changes from local machine to github(remote)<br>
+
+## What I learned Today:
+
+How to Download Code from remote to local machine using clone command<br>
+How to stage file using add command<br>
+How to commit changes with a message using commit command<br>
+How to upload local machine data to remote Website using push command<br>
+How to Create and switch branch in a single line using switch -c command<br>
